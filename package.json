@@ -1,8 +1,8 @@
 {
-  "name": "clamp-js-main",
+  "name": "clamp-js-main-silent",
   "version": "0.11.2",
   "license": "WTFPL",
-  "description": "Clamp JS main (ie. cuts off) an HTML element's content by adding ellipsis to it if the content inside is too long.",
+  "description": "Clamp JS main (ie. cuts off) an HTML element's content by adding ellipsis to it if the content inside is too long. Forked version without console logs",
   "author": {
     "name": "Josh English",
     "email": "josh@joshenglish.com"
